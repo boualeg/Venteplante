@@ -1,0 +1,19 @@
+<ul>
+   <li><a href=""> Accueil</a></li>
+   <li>
+      <a href="">Produits</a>
+        <ul>
+          <li><a href="">Plante 1</a></li>
+          <li><a href="">Plante 2</a></li>
+          <li><a href="">Plante 3</a></li>
+          <li><a href="">Plante 3</a></li>
+        </ul>
+   </li>
+<ul>
+   <li>
+        <a href="">Promotion</a></li>
+    
+    </li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="Login.html">Login</a></li>
+  </ul>
